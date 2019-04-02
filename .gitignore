@@ -75,3 +75,16 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ArchViz/Intermediate/AssetRegistryCache/50a675f9.bin
+ArchViz/Intermediate/
+ArchViz/Content/Assets/
+ArchViz/Content/Assets/Audio/
+ArchViz/Content/Assets/Blueprints/BP_BlueprintExamples_GameMode.uasset
+ArchViz/Content/Assets/Blueprints/
+ArchViz/Content/Assets/Materials/
+ArchViz/Content/Assets/Meshes/EditorPlane.uasset
+ArchViz/Content/Assets/Meshes/
+ArchViz/Content/Assets/Textures/
+ArchViz/Content/Assets/Effects/
+ArchViz/Binaries/
+ArchViz/Saved/
